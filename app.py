@@ -16,7 +16,7 @@ st.set_page_config(
 )
 
 # Title and header
-st.title("📊 Horus Surgical Operations Dashboard")
+st.title("Horus Surgical Operations Dashboard")
 st.markdown("---")
 
 # Initialize session state for data
