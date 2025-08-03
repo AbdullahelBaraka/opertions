@@ -9,14 +9,14 @@ import io
 
 # Set page configuration
 st.set_page_config(
-    page_title="Surgical Operations Dashboard",
+    page_title="Horus Surgical Operations Dashboard",
     page_icon="🏥",
     layout="wide",
     initial_sidebar_state="expanded"
 )
 
 # Title and header
-st.title("📊 Surgical Operations Dashboard")
+st.title("📊 Horus Surgical Operations Dashboard")
 st.markdown("---")
 
 # Initialize session state for data
